@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ORSRE Platform Pro",
+  "description": "A professional warehouse and receipt management system for agricultural tracking, featuring real-time stock monitoring, geolocation mapping, and AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
